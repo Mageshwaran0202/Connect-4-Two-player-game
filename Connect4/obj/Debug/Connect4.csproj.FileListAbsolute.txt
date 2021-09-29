@@ -1,0 +1,6 @@
+C:\Users\magesh\Desktop\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\magesh\Desktop\Connect4\Connect4\obj\Debug\Connect4.csprojResolveAssemblyReference.cache
+C:\Users\magesh\Desktop\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\magesh\Desktop\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\magesh\Desktop\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\magesh\Desktop\Connect4\Connect4\obj\Debug\Connect4.pdb
